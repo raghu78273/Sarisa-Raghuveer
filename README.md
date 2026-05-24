@@ -1,7 +1,7 @@
 # Hi, I'm Sarisa Raghuveer 👋
 
-🎓 B.Tech ECE @ IIIT Sri City (2023–2027)
- Embedded Systems & IoT Engineer in the Making
+🎓 B.Tech ECE @ IIIT Sri City (2023–2027) |
+ Embedded Systems & IoT Engineer in the Making |
  Building real hardware — FPGA, Microcontrollers, UAV systems & TinyML
 
 ---
@@ -49,14 +49,29 @@
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🚁 UAV-Assisted IoT Data Collection](https://github.com/raghu78273/UAV-Assisted-IoT-Data-Collection) | UAV path planning for IoT data collection in infrastructure-free zones using DTN & ML | HTML5, JS, DTN, ML |
-| [🎮 Crash Ball Game on FPGA](https://github.com/raghu78273/Crash-Ball-game-using-FPGA-ARTIX-7) | Real-time arcade game on Artix-7 FPGA with VGA output and FSM logic | Verilog, Vivado, FSM |
-| [🚗 Car Dodging Game on FPGA](https://github.com/raghu78273) | Interactive car dodging game on Artix-7 FPGA with real-time collision detection | Verilog, Vivado, VGA |
-| [⚡ QCA T-Logic Ripple Carry Adder](https://github.com/raghu78273/QCA-TLogic-Ripple-Carry-Adder) | Arithmetic circuits using T-Logic in Quantum-dot Cellular Automata | QCA Designer, VLSI |
+### 🚁 UAV-Assisted IoT Data Collection
+UAV path planning framework for IoT data collection in infrastructure-free zones using DTN routing and ML-based node prioritization.  
+🔗 [View Repository](https://github.com/raghu78273/UAV-Assisted-IoT-Data-Collection)
 
 ---
+
+### 🎮 Crash Ball Game on FPGA Artix-7
+Real-time arcade game implemented on Artix-7 FPGA with VGA display output and FSM-based game logic — entirely in hardware, no CPU involved.  
+🔗 [View Repository](https://github.com/raghu78273/Crash-Ball-game-using-FPGA-ARTIX-7)
+
+---
+
+### 🚗 Car Dodging Game on FPGA Artix-7
+Interactive car dodging game on Artix-7 FPGA with real-time collision detection and VGA rendering using Verilog HDL.  
+🔗 [View Repository](https://github.com/raghu78273)
+
+---
+
+### ⚡ QCA T-Logic Ripple Carry Adder
+Arithmetic circuits (Full Adder, RCA, RCS, Comparator) designed using T-Logic in Quantum-dot Cellular Automata technology and validated through QCA Designer simulation.  
+🔗 [View Repository](https://github.com/raghu78273/QCA-TLogic-Ripple-Carry-Adder)
+
+
 
 ## 🤝 Connect with Me
 
